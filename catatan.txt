@@ -1,0 +1,3 @@
+$config['uri_protocol'] = 'REQUEST_URI';
+change to
+$config['uri_protocol'] = 'PATH_INFO';
